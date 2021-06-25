@@ -1,15 +1,8 @@
 ---
 title: "Lasso with Tidymodels(kaggle competition)"
 output: 
-    html_document:
+    rmarkdown::github_document:
         number_sections : true
-        fig_caption : true
-        toc : true
-        fig_width : 5
-        fig_height : 4
-        theme : cosmo
-        highlight : tango
-        code_folding : show
 editor_options: 
   chunk_output_type: inline
 ---
