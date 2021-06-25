@@ -25,6 +25,7 @@ library(tidyverse)
 library(magrittr)
 library(skimr)
 library(knitr)
+library(ggplot2)
 theme_set(theme_bw())
 ```
 
